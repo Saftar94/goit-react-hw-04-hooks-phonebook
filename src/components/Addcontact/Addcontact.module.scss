@@ -1,0 +1,22 @@
+.Blockinput {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Input {
+  width: 200px;
+  border: 0;
+  border-radius: 40px;
+  padding: 10px;
+}
+.Button {
+  font-size: 15px;
+  margin-top: 20px;
+  padding: 10px 20px 10px 20px;
+  border-radius: 10px;
+  border: 0;
+}
+.Button:hover {
+  background-color: rgb(175, 41, 24);
+}

@@ -1,0 +1,19 @@
+.Ulist {
+  list-style: none;
+}
+.Name {
+  font-size: 20px;
+  margin-right: 5px;
+}
+.Number {
+  font-size: 15px;
+}
+
+.Delete {
+  padding: 5px 15px 5px 15px;
+  border-radius: 10px;
+  border: 0px;
+}
+.Delete:hover {
+  background-color: rgb(175, 41, 24);
+}
