@@ -1,8 +1,8 @@
 {
   "name": "goit-react-hw-04-hooks-phonebook",
   "version": "0.1.0",
-  "homepage": "https://Saftar94.github.io//goit-react-hw-04-hooks-phonebook",
   "private": true,
+  "homepage": "https://Saftar94.github.io//goit-react-hw-04-hooks-phonebook",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -48,7 +48,7 @@
     "prettier": "^2.5.1"
   },
   "lint-staged": {
-    "*.js": "eslint --cache --fix",
-    "*.{js,css,md}": "prettier --write"
+    "*.{js,jsx}": "eslint --cache --fix",
+    "*.{js,jsx,css,md,scss}": "prettier --write"
   }
 }
